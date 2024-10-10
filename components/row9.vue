@@ -3,7 +3,7 @@
     <div class="grid grid-cols-9 gap-1">
       <subject>کنترلر</subject>
       <div class="col-span-8 content font-bold">
-        <div class="grid lg:grid-cols-8 sm:grid-cols-4 gap-2">
+        <div class="grid lg:grid-cols-8 sm:grid-cols-4 gap-2 ">
           <div
             v-for="item in 8"
             :key="item"

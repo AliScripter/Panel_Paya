@@ -1,36 +1,25 @@
 /* Text Font */
 @font-face {
-  font-family: BYekan;
-  src: url('../fonts/BYekan.woff2') format('woff2');
-  src: url('../fonts/BYekan.woff') format('woff');
-  src: url('../fonts/BYekan.ttf') format('BYekan.ttf');
-  src: url('../fonts/BYekan.eot') format('eBYekan.eot');
+    font-family: BYekan;
+    src: url('../fonts/BYekan.woff2') format('woff2');
+    src: url('../fonts/BYekan.woff') format('woff');
+    src: url('../fonts/BYekan.ttf') format('BYekan.ttf');
+    src: url('../fonts/BYekan.eot') format('eBYekan.eot');
 }
 
 /* Font For fontawsome icons */
 @font-face {
-  font-family: awsome;
-  src: url('../icons/webfonts/fa-brands-400.ttf') format('ttf');
-  src: url('../icons/webfonts/fa-brands-400.woff') format('woff');
-  src: url('../icons/webfonts/fa-brands-400.woff2') format('woff2');
+    font-family: awsome;
+    src: url('../icons/webfonts/fa-brands-400.ttf') format('ttf');
+    src: url('../icons/webfonts/fa-brands-400.woff2') format('woff2');
 
-  src: url('../icons/webfonts/fa-duotone-900.ttf') format('ttf');
-  src: url('../icons/webfonts/fa-duotone-900.woff') format('woff');
-  src: url('../icons/webfonts/fa-duotone-900.woff2') format('woff2');
+    src: url('../icons/webfonts/fa-regular-400.ttf') format('ttf');
+    src: url('../icons/webfonts/fa-regular-400.woff2') format('woff2');
 
-  src: url('../icons/webfonts/fa-light-300.ttf') format('ttf');
-  src: url('../icons/webfonts/fa-light-300.woff') format('woff');
-  src: url('../icons/webfonts/fa-light-300.woff2') format('woff2');
+    src: url('../icons/webfonts/fa-solid-900.ttf') format('ttf');
+    src: url('../icons/webfonts/fa-solid-900.woff2') format('woff2');
+}
 
-  src: url('../icons/webfonts/fa-regular-400.ttf') format('ttf');
-  src: url('../icons/webfonts/fa-regular-400.woff') format('woff');
-  src: url('../icons/webfonts/fa-regular-400.woff2') format('woff2');
-
-  src: url('../icons/webfonts/fa-solid-900.ttf') format('ttf');
-  src: url('../icons/webfonts/fa-solid-900.woff') format('woff');
-  src: url('../icons/webfonts/fa-solid-900.woff2') format('woff2');
-
-  src: url('../icons/webfonts/fa-thin-100.ttf') format('ttf');
-  src: url('../icons/webfonts/fa-thin-100.woff') format('woff');
-  src: url('../icons/webfonts/fa-thin-100.woff2') format('woff2');
+i {
+    font-family: awsome !important;
 }
